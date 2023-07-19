@@ -1,1 +1,3 @@
 # Calculator
+
+In this JavaScript Fundamentals lesson on Objects and Arrays, we covered essential concepts, including creating objects using literals and constructors, accessing object properties with dot and bracket notations, navigating nested objects with multiple object operators, and utilizing powerful array functions like map(), filter(), reduce(), and forEach(). Through practical examples and exercises, I gained a comprehensive understanding of object manipulation and array operations, enabling me to build efficient and robust JavaScript applications.
