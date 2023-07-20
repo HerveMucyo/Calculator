@@ -5,6 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background: linear-gradient(to right, #00aaff, #e5e500);
 }
 
 .calculator {
@@ -16,7 +17,7 @@ body {
     border: 2px solid #333;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    background-color: #f9f9f9;
+    background: linear-gradient(to right, #00aaff, #e5e500);
 }
 
 .display {
